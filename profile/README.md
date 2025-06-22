@@ -3,11 +3,16 @@ at [Augusta University](https://www.augusta.edu) strives to advance the software
 development process by using the principles and techniques from
 logic, mathematics, and interactive theorem proving to
 ensure the correctness and security of software.
-
 The primary research areas of the faculty and students in the ForML
 lab are: foundations of programming languages, interactive theorem
 proving, categorical logic, reversible computing, program optimization, 
 program analysis and secure programming.
+
+**Research**
+
+* [Concurrency In Reversible Computations](https://github.com/CinRC)
+* [Static Analyses of Program Flows](https://github.com/statycc)
+
 
 **Events and Activities**
 
