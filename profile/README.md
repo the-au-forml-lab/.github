@@ -20,6 +20,6 @@ proving, categorical logic, reversible computing, program optimization, program 
 
 **Community Service**
 
-Beyond events and activities, the lab members support the Augusta University community by crafting and maintaining various document templates.
+Beyond events and activities, the members support the Augusta University community by crafting and maintaining document templates.
 * [The AU SCCS letterhead](https://github.com/the-au-forml-lab/au_ccs_letterhead_template) 
 * [Graduate dissertation template](https://github.com/the-au-forml-lab/au_ccs_dissertation_template)
